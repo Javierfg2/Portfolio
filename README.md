@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java and other languages**
 
-- 👨‍💻 All of my projects are available at [https://javierfg2.github.io/Portfolio/](https://javierfg2.github.io/)
+- 👨‍💻 All of my projects are available at [https://javierfg2.github.io/](https://javierfg2.github.io/)
 
 - 💬 Ask me about **math and python**
 
